@@ -1,6 +1,1 @@
-pyTelegramBotAPI
-google-generativeai
-edge-tts
-flask
-requests
-pillow
+
